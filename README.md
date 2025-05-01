@@ -148,7 +148,7 @@ module.exports = {
     <a href="https://github.com/BrendaCas">
         <img src="https://github.com/BrendaCas.png" width="100">
     </a>
-      <h4>FLavia de Jesus</h4>
+      <h4>FLavia Alessandra</h4>
     <a href="https://github.com/fasjesus">
         <img src="https://github.com/fasjesus.png" width="100">
     </a>
